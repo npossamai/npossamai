@@ -1,6 +1,6 @@
 Hi folks! 👋
 
-I'm *Nicholas*, a passionate Software Engineer loving web applications, open source and cookies 🍪.
+I'm *Nicholas*, an enthusiast Software Engineer loving web applications, open source and cookies 🍪.
 
 I'm proudly work on IIoT projects at Schneider Electric.
 
