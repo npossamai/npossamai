@@ -2,7 +2,7 @@ Hi folks! 👋
 
 I'm *Nicholas*, an enthusiast Software Engineer loving web applications, open source and cookies 🍪.
 
-I'm proudly work on IIoT projects at Schneider Electric.
+I'm proudly working on IIoT projects at Schneider Electric.
 
 <!--
 **npossamai/npossamai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
